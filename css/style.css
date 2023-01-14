@@ -11,6 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: outfit, sans-serif;
+    margin-top: 20px;
 }
 h1 {
     color: hsl(218, 44%, 22%);
